@@ -34,5 +34,5 @@ Simply double-click the `run_app.bat` file. It will automatically install missin
 ##  Built with
 - [Streamlit](https://streamlit.io/) - For the interactive UI.
 - [Transformers](https://huggingface.co/docs/transformers/index) - Using XLNet/BERT for emotion classification.
-- [Pandas](https://pandas.pydata.org/) - For CSV batch processing.
+
 
